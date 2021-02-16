@@ -1,5 +1,5 @@
-## Learn TypeScript
-## TypeScript tutorial.
+# Learn TypeScript
+<b>TypeScript tutorial</b>
 <br>
 <b>1 - Install TypeScript : </b>
 <br>
